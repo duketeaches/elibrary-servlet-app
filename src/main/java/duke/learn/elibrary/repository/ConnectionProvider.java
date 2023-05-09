@@ -18,7 +18,7 @@ public class ConnectionProvider {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(ConnectionProvider.class);
     private static Connection connection;
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/elibrary";
+    private static final String url = "jdbc:mysql://127.0.0.1:3316/elibrary";
     private static final String username = "kazi";
     private static final String password = "kazi";
 
